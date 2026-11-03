@@ -13,7 +13,7 @@ int main() {
 
     printf("The address of some garbage is %p\n", ptr2);  // address of ptr2 like null....
 
-    printf("The value of a is %d\n", *ptra);   // value of a 
+    printf("The value of a is %d\n", *ptra);   // value of a...      %d jab inter chya. na ki address becouse adress mai alphabet bhi ho sktai h 
     printf("The value of a is %d\n", a);       // value of a
 
     return 0;
