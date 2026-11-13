@@ -13,7 +13,7 @@ char b = '3';
 char*ptrb = &b;
 printf("print of adress: %d\n",ptrb); // adress hmara 1 byte hi laita h 
 printf("print of adress: %d\n",ptrb+1);
-pr"print of adress: %d\n",ptrb+2);
+printf("print of adress: %d\n",ptrb+2);
 }
 
 // ***size of int depends architecture to architecture...
